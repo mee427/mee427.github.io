@@ -1,3 +1,5 @@
+You can reach the [h-bridge](https://github.com/mee427/circuits/blob/master/H_bridge.PNG), [rotational velocity feedback](https://github.com/mee427/circuits/blob/master/Rotational%20Velocity%20Feedback.PNG) and [current feedback](https://github.com/mee427/circuits/blob/master/Current%20Feedback.PNG) circuits.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mee427/mee427.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
