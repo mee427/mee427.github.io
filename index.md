@@ -2,3 +2,5 @@ You can reach the [h-bridge](https://github.com/mee427/circuits/blob/master/H_br
 
 You can reach the example ccs c codes for [analog reading](https://github.com/mee427/ccs-c-codes/blob/master/AnalogRead.c), [constant pwm output](https://github.com/mee427/ccs-c-codes/blob/master/ConstantPwmOut.c) and [serial communication with debounce](https://github.com/mee427/ccs-c-codes/blob/master/SerialDebounce.c)
 
+An oral exam with calibration procedure will be held on 31/10/2018. You can reach the time schedule [here.](https://github.com/mee427/mee427.github.io/blob/master/PID%20Schedule.pdf)
+
