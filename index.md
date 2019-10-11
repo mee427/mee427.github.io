@@ -1,10 +1,9 @@
-[Student list for calibration procedure at Lab on 09/10/2019](https://github.com/mee427/mee427.github.io/blob/master/liste_mee427.pdf)
+***[Lab Procedure on 16/10/2019](https://github.com/mee427/mee427.github.io/blob/master/PID_Lab_Procedure.pdf)
 
-Electronic cards should work properly by means of reading analog input, digital output, pwm output as well as the serial communication (rx  tx) at the lab on 09/10/2019.
+***[Current Calibration Procedure](https://github.com/mee427/mee427.github.io/blob/master/MEE427_Current_Calib.pdf)
 
-Students should bring computer to the lab in order to upload the code pieces into the microcontrollers. For the communication interface between the computer and the microcontroller, it is possible to use arduino uno without its microchip on it (as if it is a ftdi chip). You can reach the example codes below on this page.
+***[Encoder System Dimensions](https://github.com/mee427/mee427.github.io/blob/master/Encoder%20Holder.pdf)
 
-[IMPORTANT NOTE ABOUT CURRENT CALIBRATION PROCEDURE FOR THE LAB ON 09.10.2019](https://github.com/mee427/mee427.github.io/blob/master/MEE427_Current_Calib.pdf)
 
 Design requirements of the course can be found [here (updated).](https://github.com/mee427/mee427.github.io/blob/master/Requirements.pdf)
 
