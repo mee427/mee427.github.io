@@ -1,4 +1,4 @@
-[Lab student list on 16/10/2019](https://github.com/mee427/mee427.github.io/blob/master/mee427_16102019.pdf)
+[Lab schedule on 16/10/2019](https://github.com/mee427/mee427.github.io/blob/master/mee427_16102019.pdf)
 
 ***[Lab Procedure on 16/10/2019](https://github.com/mee427/mee427.github.io/blob/master/PID_Lab_Procedure.pdf)
 
