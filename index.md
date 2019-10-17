@@ -1,10 +1,10 @@
-[Lab schedule on 16/10/2019](https://github.com/mee427/mee427.github.io/blob/master/mee427_16102019.pdf)
+[Mixer Application Information on 23/10/2019](https://github.com/mee427/mee427.github.io/blob/master/Mixer%20Application.pdf)
 
-***[Lab Procedure on 16/10/2019](https://github.com/mee427/mee427.github.io/blob/master/PID_Lab_Procedure.pdf)
+[Lab Procedure on 16/10/2019](https://github.com/mee427/mee427.github.io/blob/master/PID_Lab_Procedure.pdf)
 
-***[Current Calibration Procedure](https://github.com/mee427/mee427.github.io/blob/master/MEE427_Current_Calib.pdf)
+[Current Calibration Procedure](https://github.com/mee427/mee427.github.io/blob/master/MEE427_Current_Calib.pdf)
 
-***[Encoder System Dimensions](https://github.com/mee427/mee427.github.io/blob/master/Encoder%20Holder.pdf)
+[Encoder System Dimensions](https://github.com/mee427/mee427.github.io/blob/master/Encoder%20Holder.pdf)
 
 
 Design requirements of the course can be found [here (updated).](https://github.com/mee427/mee427.github.io/blob/master/Requirements.pdf)
