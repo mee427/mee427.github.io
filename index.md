@@ -1,4 +1,4 @@
-[Mixer Application Information on 23/10/2019](https://github.com/mee427/mee427.github.io/blob/master/Mixer%20Application.pdf)
+***[Mixer Application Information on 23/10/2019](https://github.com/mee427/mee427.github.io/blob/master/Mixer%20Application.pdf)
 
 [Lab Procedure on 16/10/2019](https://github.com/mee427/mee427.github.io/blob/master/PID_Lab_Procedure.pdf)
 
