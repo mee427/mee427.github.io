@@ -1,4 +1,7 @@
-***[Mixer Application Information on 23/10/2019](https://github.com/mee427/mee427.github.io/blob/master/Mixer%20Application.pdf)
+IMPORTANT ANNOUNCEMENT;
+On 23/10/2019, there will be theoretical lecture at C1-05.
+
+***[POSTPONED!!! Mixer Application Information on 13/11/2019](https://github.com/mee427/mee427.github.io/blob/master/Mixer%20Application.pdf)
 
 [Lab Procedure on 16/10/2019](https://github.com/mee427/mee427.github.io/blob/master/PID_Lab_Procedure.pdf)
 
