@@ -1,3 +1,5 @@
+**On 27/11/2019 there will be theoretical course in C2-05 from 09:30 to 10:30, then practical course will be held in Prototype Lab. Please bring your electronic cards, DC motors and laptops to laboratory.
+
 [Mixer Application Demonstration Schedule on 20/11/2019](https://github.com/mee427/mee427.github.io/blob/master/20191120.pdf)
 
 [Mixer Application Information on 13/11/2019](https://github.com/mee427/mee427.github.io/blob/master/Mixer%20Application.pdf)
