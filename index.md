@@ -4,8 +4,6 @@ On 04/12/2019, students should demonstrate their velocity control with their pre
 
 [MEE427 PID CONTROL Exam and Lab Results](https://github.com/mee427/mee427.github.io/blob/master/pid_scores_1.pdf)
 
-[Mixer Application Demonstration Schedule on 20/11/2019](https://github.com/mee427/mee427.github.io/blob/master/20191120.pdf)
-
 [Mixer Application Information on 13/11/2019](https://github.com/mee427/mee427.github.io/blob/master/Mixer%20Application.pdf)
 
 [Lab Procedure on 16/10/2019](https://github.com/mee427/mee427.github.io/blob/master/PID_Lab_Procedure.pdf)
