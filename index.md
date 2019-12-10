@@ -1,6 +1,4 @@
-On 04/12/2019, students should demonstrate their velocity control with their pre-tuned PI controller. Control signal (in this case it is the reference velocity in terms of RPM) should be given to the system and the resultant velocity and the error should be seeable on the serial monitor. Those values can be logged or copied and pasted to the any plotter program in order to be seen as a graphic with respect to time. In demonstration, it is expected to change Kp and Ki values as well and according to behaviour of the system, students should comment. For saving time in trials and demonstration, it is better to update your code to expecting reference velocity, Kp and Ki values from the serial monitor [(This code can be used as template for this purpose)](https://github.com/mee427/ccs-c-codes/blob/master/ReadStringToPwm.c)
-
-[Lab schedule on 04/12/2019](https://github.com/mee427/mee427.github.io/blob/master/20191204.pdf)
+On 11/12/2019, lecture will be held in Prototype Laboratory and start at 09:30. Students should bring their electronic systems, laptops and DC Motors to the laboratory.
 
 [MEE427 PID CONTROL Exam and Lab Results](https://github.com/mee427/mee427.github.io/blob/master/pid_scores_1.pdf)
 
