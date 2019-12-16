@@ -1,4 +1,4 @@
-On 11/12/2019, lecture will be held in Prototype Laboratory and start at 09:30. Students should bring their electronic systems, laptops and DC Motors to the laboratory.
+**On 18/12/2019 there will be theoretical course in C2-05 at 09:30, then practical course will be held in Prototype Lab. Please bring your electronic cards, DC motors and laptops to laboratory.
 
 [MEE427 PID CONTROL Exam and Lab Results](https://github.com/mee427/mee427.github.io/blob/master/pid_scores_1.pdf)
 
