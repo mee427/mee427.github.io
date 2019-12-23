@@ -1,4 +1,4 @@
-**On 18/12/2019 there will be theoretical course in C2-05 at 09:30, then practical course will be held in Prototype Lab. Please bring your electronic cards, DC motors and laptops to laboratory.
+[Position Control Schedule on 25/12/2019](https://github.com/mee427/mee427.github.io/blob/master/20191225.pdf)
 
 [MEE427 PID CONTROL Exam and Lab Results](https://github.com/mee427/mee427.github.io/blob/master/pid_scores_1.pdf)
 
