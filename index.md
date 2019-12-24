@@ -1,15 +1,10 @@
+[2019 - 2020 Fall Absent List](https://github.com/mee427/mee427.github.io/blob/master/Devams%C4%B1z.pdf)
+
 [Position Control Schedule on 25/12/2019](https://github.com/mee427/mee427.github.io/blob/master/20191225.pdf)
 
 [MEE427 PID CONTROL Exam and Lab Results](https://github.com/mee427/mee427.github.io/blob/master/pid_scores_1.pdf)
 
-[Mixer Application Information on 13/11/2019](https://github.com/mee427/mee427.github.io/blob/master/Mixer%20Application.pdf)
-
-[Lab Procedure on 16/10/2019](https://github.com/mee427/mee427.github.io/blob/master/PID_Lab_Procedure.pdf)
-
-[Current Calibration Procedure](https://github.com/mee427/mee427.github.io/blob/master/MEE427_Current_Calib.pdf)
-
 [Encoder System Dimensions](https://github.com/mee427/mee427.github.io/blob/master/Encoder%20Holder.pdf)
-
 
 Design requirements of the course can be found [here (updated).](https://github.com/mee427/mee427.github.io/blob/master/Requirements.pdf)
 
