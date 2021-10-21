@@ -13,3 +13,5 @@ Past works;
 
 [Assignment #1 for Lab Works](https://github.com/mee427/mee427.github.io/blob/master/MEE427_Assignment1.pdf)
 Supplied code pieces for Assignment #1: ([Time response code](https://github.com/mee427/mee427.github.io/blob/master/feedbackSystem.py), [Frequency response code](https://github.com/mee427/mee427.github.io/blob/master/bodeDiagram.py)).
+
+The codes and models that was built during the laboratory-1 can be found [here.](https://github.com/mee427/mee427.github.io/tree/master/Codes%20and%20Models%20for%20Assignment%201)
