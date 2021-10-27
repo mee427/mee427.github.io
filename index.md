@@ -2,7 +2,9 @@
 
 ## Announcement for Practical Lab-Works
 
-Part list for the practical works and project can be found [here.](https://github.com/mee427/mee427.github.io/blob/master/Part%20List.pdf) Please have these components until 17/11/2021.
+Component list for the practical works and project can be found [here.](https://github.com/mee427/mee427.github.io/blob/master/Part%20List.pdf) Please have these components until 17/11/2021.
+
+_NOTE: Soldering Iron and Soldering Wire is added to list._
 
 **It is recommended to have components with spares.**
 
