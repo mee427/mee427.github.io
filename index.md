@@ -1,5 +1,21 @@
 # MEE427 PID CONTROL
 
+## On 17/11/2021;
+
+### Section #1 groups;
+
+*will join the theoretical class in C1-05 at 13:30 
+
+*will join the laboratory class in Prototype Lab at 14:45
+
+### Section #2 groups;
+
+*will join the laboratory class in Prototype Lab at 13:30
+
+*will join the theoretical class in C1-05 at 14:45
+
+_NOTE: Sections can be found [here.](https://github.com/mee427/mee427.github.io/blob/master/PID%20Groups.pdf)_
+
 ## Announcement for Practical Lab-Works
 
 Component list for the practical works and project can be found [here.](https://github.com/mee427/mee427.github.io/blob/master/Part%20List.pdf) Please have these components until 17/11/2021.
