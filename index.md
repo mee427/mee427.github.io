@@ -1,20 +1,14 @@
 # MEE427 PID CONTROL
 
-## On 17/11/2021;
+## Controller Card;
 
-### Section #1 groups;
+-[Requirements document.](https://github.com/mee427/mee427.github.io/blob/master/Requirements.pdf)
 
-*will join the theoretical class in C1-05 at 13:30 
+-[General H-bridge Representation.](https://github.com/mee427/circuits/blob/master/H_bridge.PNG)
 
-*will join the laboratory class in Prototype Lab at 14:45
+-[Current Feedback Circuit.](https://github.com/mee427/circuits/blob/master/Current%20Feedback.PNG)
 
-### Section #2 groups;
-
-*will join the laboratory class in Prototype Lab at 13:30
-
-*will join the theoretical class in C1-05 at 14:45
-
-_NOTE: Sections can be found [here.](https://github.com/mee427/mee427.github.io/blob/master/PID%20Groups.pdf)_
+-[Rotational Veloicty Feedback Circuit.](https://github.com/mee427/circuits/blob/master/Rotational%20Velocity%20Feedback.PNG)
 
 ## Announcement for Practical Lab-Works
 
