@@ -1,5 +1,11 @@
 # MEE427 PID CONTROL
 
+## On 24.11.2021;
+
+There will be no theoretical class. The practical laboratory class will be held in Prototype Lab and Sensor Systems Lab at the same time, from 13:30 to 16:10. Participitation program can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/PID%20Groups_23112021.pdf)
+
+Please bring all the circuits, components and laptops to laboratory class.
+
 ## Controller Card;
 
 -[Requirements document.](https://github.com/mee427/mee427.github.io/blob/master/Requirements.pdf)
