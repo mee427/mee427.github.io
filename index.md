@@ -6,6 +6,8 @@ There will be no theoretical class. The practical laboratory class will be held 
 
 Please bring all the circuits, components and laptops to laboratory class.
 
+Supplied code for first trials can be found [here.](https://github.com/mee427/ccs-c-codes/blob/master/SuppliedCode_1.c)
+
 ## Controller Card;
 
 -[Requirements document.](https://github.com/mee427/mee427.github.io/blob/master/Requirements.pdf)
