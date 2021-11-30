@@ -1,5 +1,23 @@
 # MEE427 PID CONTROL
 
+## On 01.12.2021;
+
+Theoretical and practical classes together will be held at the same time. Students will join the classes according to sections.
+
+### Section #2 groups;
+
+*will join the theoretical class in C1-05 at 13:30
+
+*will join the laboratory class in Prototype Lab at 14:45
+
+### Section #1 groups;
+
+*will join the laboratory class in Prototype Lab at 13:30
+
+*will join the theoretical class in C1-05 at 14:45
+
+_NOTE: Sections can be found [here.](https://github.com/mee427/mee427.github.io/blob/master/PID%20Groups.pdf)_
+
 ## On 24.11.2021;
 
 There will be no theoretical class. The practical laboratory class will be held in Prototype Lab and Sensor Systems Lab at the same time, from 13:30 to 16:10. Participitation program can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/PID%20Groups_23112021.pdf)
