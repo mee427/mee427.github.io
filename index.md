@@ -1,5 +1,9 @@
 # MEE427 PID CONTROL
 
+## An update is done about current filter and estimating torque constant procedure!
+
+Updated version document is [here](https://github.com/mee427/mee427.github.io/blob/master/PID%20Modelling_Update.pdf) and the updates can be seen in yellow highlights.
+
 ## On 01.12.2021;
 
 Theoretical and practical classes together will be held at the same time. Students will join the classes according to sections.
