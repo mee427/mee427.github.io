@@ -1,5 +1,15 @@
 # MEE427 PID CONTROL
 
+## On 08.12.2021;
+
+There will be no theoretical class. The practical laboratory class will be held in Prototype Lab and Sensor Systems Lab at the same time, from 13:30 to 16:10. Participitation program can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/PID%20Groups_08122021.pdf)
+
+A document about how to build mathematical expressions in order to estimate the parameters and to extract a linear expression between reading voltage values and parameters is uploaded and can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/SummaryForModels.pdf) Before getting into Question 5 in your regular lab sheet, you should finish this part, which is pretty straightforward.
+
+In order to check if your serial communication works properly, you should upload [supplied code 2](https://github.com/mee427/ccs-c-codes/blob/master/SuppliedCode_2.c) to your microcontroller and test it with serial communication interface.
+
+If the communication works properly, you can upload [code piece for estimating rotational inertia](https://github.com/mee427/ccs-c-codes/blob/master/EstimateJ.c) and save your output data via serial communication interface.
+
 ## An update is done about current filter and estimating torque constant procedure!
 
 Updated version document is [here](https://github.com/mee427/mee427.github.io/blob/master/PID%20Modelling_Update.pdf) and the updates can be seen in yellow highlights.
