@@ -1,5 +1,9 @@
 # MEE427 PID CONTROL
 
+## On 22.12.2021;
+
+There will be no theoretical class. The practical laboratory class will be held in Prototype Lab and Sensor Systems Lab at the same time, from 13:30 to 16:10. Participitation program can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/PID%20Groups_08122021.pdf)
+
 Sample PID Code can be reached [here.](https://github.com/mee427/ccs-c-codes/blob/master/pid_sample.c)
 
 ## On 15.12.2021;
