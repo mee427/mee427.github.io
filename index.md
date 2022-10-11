@@ -2,7 +2,11 @@
 
 ## 2022 - 2023 FALL
 
-Course announcements can be followed from this page.
+### Power Card and Data Collection Announcement.
+
+The details about power card to be built can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/Power%20Card.pdf)
+
+The details about DAQ card, installation and data collection details can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/Data%20Collect%20for%20MEE427.pdf)
 
 ## 2021 - 2022 FALL (Archive)
 
