@@ -2,6 +2,10 @@
 
 ## 2022 - 2023 FALL
 
+### MEE427 Design Assignment
+
+The design assignment can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427%20Design%20Assignment.pdf)
+
 ### Power Card and Data Collection Announcement.
 
 The details about power card to be built can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/Power%20Card.pdf)
