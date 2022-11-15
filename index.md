@@ -2,6 +2,12 @@
 
 ## 2022 - 2023 FALL
 
+### On 17.12.2022;
+
+There will be no theoretical class. The practical laboratory class will be held in Prototype Lab, starts at 13:00.
+
+Each group should bring at least one laptop to the laboratory. If you haven't install the required software about the DAQ card, please follow the [installation document](https://github.com/mee427/mee427.github.io/blob/master/Data%20Collect%20for%20MEE427.pdf) that was shared before.
+
 ### MEE427 Design Assignment
 
 The design assignment can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427%20Design%20Assignment.pdf)
