@@ -2,7 +2,7 @@
 
 ## 2022 - 2023 FALL
 
-### On 17.12.2022;
+### On 17.11.2022;
 
 There will be no theoretical class. The practical laboratory class will be held in Prototype Lab, starts at 13:00.
 
