@@ -2,7 +2,7 @@
 
 ## 2022 - 2023 FALL
 
-## TERM PROJECT ASSIGNMENT REPORT DETAILS IS ANNOUNCED.
+## TERM PROJECT ASSIGNMENT REPORT DETAILS ARE ANNOUNCED.
 
 You can reach the report details [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427%20-%20Term%20Project%20Assignment.pdf)
 
