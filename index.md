@@ -2,6 +2,10 @@
 
 ## 2022 - 2023 FALL
 
+## TERM PROJECT ASSIGNMENT REPORT DETAILS IS ANNOUNCED.
+
+You can reach the report details [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427%20-%20Term%20Project%20Assignment.pdf)
+
 ### On 08.12.2022;
 
 There will be no theoretical class. The practical laboratory class will be held in Prototype Lab, starts at 12:45.
