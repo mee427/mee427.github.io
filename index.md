@@ -2,6 +2,12 @@
 
 ## 2022 - 2023 FALL
 
+### 22/12/2022 Demo
+
+Demo schedule is announced and can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/PID%20Schedule.pdf) 
+
+Groups will have 10 minutes preperation time and 20 minutes demo time.
+
 PID Code example can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/main.c)
 
 ## TERM PROJECT ASSIGNMENT REPORT DETAILS ARE ANNOUNCED.
