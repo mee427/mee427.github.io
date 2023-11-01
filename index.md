@@ -1,27 +1,14 @@
 # MEE427 PID CONTROL
 
-## 2022 - 2023 FALL
+## 2023 - 2024 FALL
+
+TBA
+
+## 2022 - 2023 FALL (Archive)
 
 ### 22/12/2022 Demo
 
-Demo schedule is announced and can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/PID%20Schedule.pdf) 
-
-Groups will have 10 minutes preperation time and 20 minutes demo time.
-
 PID Code example can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/main.c)
-
-## TERM PROJECT ASSIGNMENT REPORT DETAILS ARE ANNOUNCED.
-
-You can reach the report details [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427%20-%20Term%20Project%20Assignment.pdf)
-
-### On 08.12.2022;
-
-There will be no theoretical class. The practical laboratory class will be held in Prototype Lab, starts at 12:45.
-Please bring your microcontroller card and power module to the laboratory.
-
-### On 24.11.2022;
-
-The theoretical class will be held in Prototype Lab, starts at 12:45. Following the theoretical class, there will be practical lab session at the same location.
 
 ### On 17.11.2022;
 
