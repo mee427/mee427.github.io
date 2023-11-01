@@ -2,7 +2,13 @@
 
 ## 2023 - 2024 FALL
 
-TBA
+### Initial Information about Data Collection and Custom-built Cards (Microcontroller Part and Power Part)
+
+Information about microcontroller can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/Microcontoller.pdf)
+
+The details about power card to be built can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/Power%20Card.pdf)
+
+The details about DAQ card, installation and data collection details can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/Data%20Collect%20for%20MEE427.pdf)
 
 ## 2022 - 2023 FALL (Archive)
 
