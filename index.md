@@ -1,6 +1,16 @@
 # MEE427 PID CONTROL
 
-## 2023 - 2024 FALL
+## 2023 - 2024 SPRING (Last updated on 02/03/2024)
+
+### Initial Information about Data Collection and Custom-built Cards (Microcontroller Part and Power Part)
+
+Information about microcontroller and part list can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/Microcontoller.pdf)
+
+The details about power card to be built can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/Power%20Card.pdf)
+
+The details about DAQ card, installation and data collection details can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427%20Lab%20Sheet.pdf)
+
+## 2023 - 2024 FALL (Archieve)
 
 ### Initial Information about Data Collection and Custom-built Cards (Microcontroller Part and Power Part)
 
