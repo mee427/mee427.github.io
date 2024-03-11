@@ -1,8 +1,12 @@
 # MEE427 PID CONTROL
 
-## 2023 - 2024 SPRING (Last updated on 02/03/2024)
+## 2023 - 2024 SPRING (Last updated on 11/03/2024)
 
 ### Initial Information about Data Collection and Custom-built Cards (Microcontroller Part and Power Part)
+
+Sections for Lab activities can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427_Groups.pdf)
+
+Section B should be ready at Prototyping Laboratory on 14/03/2024 at 13:30; while Section A should be join theoretical class (H2-75) at the same time.
 
 Information about microcontroller and part list can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/Microcontoller.pdf)
 
