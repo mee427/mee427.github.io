@@ -1,6 +1,8 @@
 # MEE427 PID CONTROL
 
-## 2023 - 2024 SPRING (Last updated on 11/03/2024)
+## 2023 - 2024 SPRING (Last updated on 30/05/2024)
+
+Final Project schedule [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427_Schedule.pdf)
 
 ### Initial Information about Data Collection and Custom-built Cards (Microcontroller Part and Power Part)
 
