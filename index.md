@@ -1,6 +1,8 @@
 # MEE427 PID CONTROL
 
-## 2024 - 2025 FALL (Last Updated on 10/10/2024)
+## 2024 - 2025 FALL (Last Updated on 28/10/2024)
+
+Lab sheet can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427%20Lab%20Sheet.pdf)
 
 Information about microcontroller and part list can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/Microcontoller.pdf)
 
