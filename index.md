@@ -1,5 +1,16 @@
 # MEE427 PID CONTROL
 
+## 2024 - 2025 FALL (Last Updated on 13/03/2025)
+
+Lab sheet can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427%20Lab%20Sheet.pdf)
+
+Information about microcontroller and part list can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/Microcontoller.pdf)
+
+The details about power card to be built can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/Power%20Card.pdf)
+
+The details about DAQ card, installation and data collection details can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427%20Lab%20Sheet.pdf)
+
+
 ## 2024 - 2025 FALL (Last Updated on 28/10/2024)
 
 Lab sheet can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427%20Lab%20Sheet.pdf)
