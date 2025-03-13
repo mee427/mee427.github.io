@@ -1,6 +1,6 @@
 # MEE427 PID CONTROL
 
-## 2024 - 2025 FALL (Last Updated on 13/03/2025)
+## 2024 - 2025 SPRING (Last Updated on 13/03/2025)
 
 Lab sheet can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427%20Lab%20Sheet.pdf)
 
