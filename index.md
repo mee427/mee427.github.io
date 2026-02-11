@@ -1,5 +1,9 @@
 # MEE427 PID CONTROL
 
+## 2025 - 2025 SPRIN6 (Last Updated on 11/02/2026)
+
+Some of the 3D models can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427.rar).
+
 ## 2024 - 2025 SPRING (Last Updated on 13/03/2025)
 
 Lab sheet can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427%20Lab%20Sheet.pdf)
