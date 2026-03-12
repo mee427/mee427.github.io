@@ -1,6 +1,8 @@
 # MEE427 PID CONTROL
 
-## 2025 - 2025 SPRING (Last Updated on 11/02/2026)
+## 2025 - 2025 SPRING (Last Updated on 12/03/2026)
+
+Project pdf can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/PID_Control_Project_Layout.pdf)
 
 Some of the 3D models can be reached [here.](https://github.com/mee427/mee427.github.io/blob/master/MEE427.rar)
 
